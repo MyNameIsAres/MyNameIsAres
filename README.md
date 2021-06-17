@@ -1,4 +1,10 @@
-### Welcome to my portfolio! 👋
+### Welcome to my Github! 👋
+
+My Github is full of different types of projects. A majority of the projects are Minecraft plugins developed with the Foundation library.
+Outisde of these projects I also like to work with PHP and Laravel, as well as Java and Spring Boot.
+
+Of course, I'm always open to new technologies and use the technology that gets the job done.
+
 
 <!--
 **MyNameIsAres/MyNameIsAres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
