@@ -1,9 +1,9 @@
 ### Welcome to my Github! 👋
 
-My Github is full of different types of projects. A majority of the projects are Minecraft plugins developed with the Foundation library.
-Outisde of these projects I also like to work with PHP and Laravel, as well as Java and Spring Boot.
+My name is Ares, and I'm a software developer from the Netherlands. Netherlands. Currently, I'm building projects that excite me using different technologies like PHP, Java, and C#. I'm passionate about technology that drives us to a better future.
 
-Of course, I'm always open to new technologies, and use the technology that gets the job done.
+I'm also learning to become an Ethical Hacker and Machine Learning engineer!
+
 
 
 <!--
