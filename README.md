@@ -1,6 +1,6 @@
 ### Welcome to my Github! 👋
 
-My name is Ares, and I'm a software developer from the Netherlands. Netherlands. Currently, I'm building projects that excite me using different technologies like PHP, Java, and C#. I'm passionate about technology that drives us to a better future.
+My name is Ares, and I'm a software developer from the Netherlands. Currently, I'm building projects that excite me using different technologies like PHP, Java, and C#. I'm passionate about technology that drives us to a better future.
 
 I'm also learning to become an Ethical Hacker and Machine Learning engineer!
 
